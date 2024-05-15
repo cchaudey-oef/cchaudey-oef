@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cchaudey-oef
-I am a french developer currently working at Octopus Energy France.
+I am a french developer currently working at Kraken France.
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 Python/Django
